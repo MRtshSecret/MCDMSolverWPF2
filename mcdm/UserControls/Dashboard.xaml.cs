@@ -20,6 +20,7 @@ namespace mcdm.UserControls
     /// </summary>
     public partial class Dashboard : UserControl
     {
+
         public Dashboard()
         {
             InitializeComponent();
